@@ -1,0 +1,7 @@
+I used the following sources in the completion of P4 (EDA):
+
+1. StackExchange
+2. Hadley Wickham's "R for Data Science"
+
+I wasn't so much "standing" on the shoulders of giants as I was stumbling. Thanks
+to everyone in the R community online.
